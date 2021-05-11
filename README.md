@@ -19,4 +19,4 @@ The given data includes the following information:
 - "ProfitMargin" - indicating the profit margin for that product
 - "Volume" - indicating the sales volume for a given product
 
-Three different regression models were tested - SVM, Random Forest, and Gradient boosting. Unfortunately, the models overfit the data due to the small sample size and outliers in the data. Detailed results can be viewed in the "C3T3 Report.docx" file, as well as the 
+Three different regression models were tested - SVM, Random Forest, and Gradient boosting. Unfortunately, the models overfit the data due to the small sample size and outliers in the data. Detailed results can be viewed in the "C3T3 Report.docx" file, as well as the "newproductspreds.csv" file.
